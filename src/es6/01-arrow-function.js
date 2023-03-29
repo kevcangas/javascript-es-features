@@ -2,7 +2,7 @@ function square(num) { //Función tradicional
     return num * num;
 }
 
-const square = (num) => { //Función flecha
+const square = (num) => { //Función flecha: Permite compactar funciones eliminando el return
     return num * num;
 }
 

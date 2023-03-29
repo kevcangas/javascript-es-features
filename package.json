@@ -10,5 +10,6 @@
     "javascript"
   ],
   "author": "Kevin Guerrero <kev162020@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
